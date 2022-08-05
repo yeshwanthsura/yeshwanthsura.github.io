@@ -1,10 +1,14 @@
 # Skills
-- skill: Data Strucutures
-- skill: Algorithms
+- skill: Data Strucutures & ALgorithms
 - skill: Java 11
 - skill: Apache Cassandra
 - skill: Apache Kafka
 - skill: GitHub
 - skill: VertX
 - skill: Docker
-- skill: Object Oriented Design
+- skill: Kubernetes
+- skill: GrayLog
+- skill: NewRelic
+- skill: Redis Cache (Jedis Library)
+- skill: Google Jib
+- skill: Travis CI
