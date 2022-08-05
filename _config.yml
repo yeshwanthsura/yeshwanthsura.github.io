@@ -1,6 +1,6 @@
 # Site settings
 title: "Yeshwanth Sura"
-description: "A software developer with experience in contributing to highly scalable and efficient distributed microservices"
+description: "A software developer with experience in working with highly scalable and efficient distributed services using Microservies and Agile Methodologies."
 
 # Build settings
 markdown: kramdown
@@ -52,7 +52,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/yeshsura"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "yeshwanthsura.github.io"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
