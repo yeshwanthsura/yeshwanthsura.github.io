@@ -1,19 +1,12 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Software Developer
+- company: IBM
+  position: Software Developer
+  duration: Oct, 2020 &mdash; Aug, 2022
+  summary: <h3>Sterling Intelligent Promising</h3><ul class="resume-item-list"><li>Part of a 3 member squad tasked to bring up - Carrier Aggregator Service (CAS) - a microservice that stores and searches millions of postal codes and responds under 10ms.</li><li>Designed and implemented REST APIs in Java along with a layer of caching with Cassandra using Jedis.</li><li>Designed and implemented event management and log aggregation using Apache Kafka, Log4J and GrayLog.</li><li>Incorporated metrics for application and caching with NewRelic.</li><li>Used Apache JMeter to run performance and load testing of the APIs.</li></ul><br><h3>Next Gen Store Inventory Management</h3><ul class="resume-item-list"><li>Optimized Cassandra queries in the offering to improve the API response time by 24%.</li><li>Designed and implemented a disaster recovery solution for Kafka in SIM using MirrorMaker 2.0.</li><li>Designed and implemented Inventory Snapshot feature - to get inventory picture at any time.</li><li></li>Built a utility tool for the squad to retrieve and view GitHub data easily.</ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Project Intern
+- company: IBM
+  position: Project Intern
+  duration:  Jul, 2019 &mdash; Jan, 2020
+  summary: <h3>Next Gen Store Inventory Management</h3><ul class="resume-item-list"><li></li><li>Implemented a search module using Angular 8 and NodeJS, to search for customer details.</li>Enabled users to integrate any 3rd party bar code scanner device into SIM, with Apache Cordova.<li></li></ul>

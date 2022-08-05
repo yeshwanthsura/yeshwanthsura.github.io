@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# R3Analytics
+- project: Doctor's Prescription Reader
+  role: Primary Developer
+  duration: Jan, 2019 &mdash; Mar, 2019
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: The module will take a computer generated doctor's prescription as input, extracts the medicines and dosage and stores the details in the db mapped to each customer of the application.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Home automation company outsourcing 
+- project: Voice Based Attendance System
+  role: Team Leader & Primary Developer
+  duration: Apr, 2019 &mdash; June, 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Designed and developed an attendance system for the university to track students attendace. Student's voice is recognized against the student id. Used transfer learning and keras to implement the module. 

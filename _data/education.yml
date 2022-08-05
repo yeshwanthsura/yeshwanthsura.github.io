@@ -1,13 +1,10 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Science in Computer Science
+  uni: University of California, Riverside
+  year: 2022 &mdash; 2024
+  curriculum: Advanced Algorithms, Combinatorial Optimization, Parallel Algorithms, Machine Learning, Spatial Computing, Big Data Management, Deep Learning, Distributed Systems, Computer Security.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Technology in Computer Science
+  uni: Jawaharlal Nehru Technological University, Anantapur
+  year: 2016 &mdash; 2020
+  curriculum: C, Data Structures, OOPS with Java, Algorithms, Design Patterns, Discrete Mathematics, Compilers, Databases, Computer Networks, Cyber Security, Artificial Intelligence, Internet Technologies.
